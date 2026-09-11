@@ -1,0 +1,26 @@
+{
+  "name": "A-Energy Group Token List",
+  "timestamp": "2026-09-11T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/Pumazn66/aeg-token-list/main/logo.png",
+  "keywords": [
+    "a-energy",
+    "aeg",
+    "polygon"
+  ],
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xC86bdE5a6119de084D36c5018012A252d11D5beD",
+      "name": "A-Energy Group",
+      "symbol": "AEG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Pumazn66/aeg-token-list/main/logo.png"
+    }
+  ]
+}
